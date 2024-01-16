@@ -10,10 +10,9 @@ This will propably not work without my Hyprland config [hypr-dots](https://githu
 ## Installation
 
 ```
-git clone https://github.com/POP303U/wofi-rice-selector.git
-cd wofi-rice-selector
-chmod +x wofi-rice-selector
-sudo cp wofi-rice-selector /bin
+git clone https://github.com/POP303U/wofi-rice-selector.git ~/wofi/wofi-rice
+chmod +x ~/wofi/wofi-rice/wofi-rice-selector
+sudo cp ~/wofi/wofi-rice/wofi-rice-selector /bin
 ```
 
 ### Hyprland keybinding
